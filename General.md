@@ -1,4 +1,31 @@
+## Sorting Types
+- Binary Search: Time Complexity: O(log n)
+- Linear Search: Time Complexity: O(n)
 
+## Binary Search Tree (BST) & AVL Tree
+- Polynomial Time: Generally, polynomial time algorithms have a time complexity of O(n^k), where 'n' is the size of the input and 'k' is a constant.
+- Time Complexity: Inserting in BST: Average Time Complexity: O(log n) Worst Case Time Complexity: O(n) (when the tree is unbalanced)
+- Time Complexity: Deleting in BST: Average Time Complexity: O(log n) Worst Case Time Complexity: O(n) (when the tree is unbalanced)
+- AVL trees are self-balancing binary search trees. Insertion and deletion operations in AVL trees have a time complexity of O(log n).
+
+## Merkle Tree
+- Introduction to Merkle Trees: Merkle trees are hash trees used to efficiently verify the integrity of data stored in large data structures.
+- Components of a Merkle Tree:
+  - Leaves: Contain hashes of individual data blocks.
+  - Internal Nodes: Contain hashes of child nodes.
+  - Root Node: Hash of the entire data structure.
+- Applications of Merkle Trees:
+  - Blockchain: Merkle trees are used in blockchain technology to efficiently verify the integrity of transactions.
+  - File Systems: Merkle trees can be used in distributed file systems for data integrity verification.
+  - Peer-to-Peer Networks: Merkle trees are employed in peer-to-peer networks to ensure the integrity of data exchanged between peers.
+  - Version Control Systems: Some version control systems use Merkle trees to verify the integrity of code repositories.
+- Properties of Merkle Trees:
+  - Efficiency: Merkle trees allow for efficient verification of data integrity with minimal computational overhead.
+  - Security: The security of Merkle trees relies on the cryptographic hash functions used to compute the hashes of individual data blocks.
+  - Scalability: Merkle trees can scale to accommodate large datasets while maintaining efficient integrity verification.
+- Implementation Considerations:
+  - Choosing appropriate hash functions.
+  - Handling tree updates efficiently.
 
 
 
