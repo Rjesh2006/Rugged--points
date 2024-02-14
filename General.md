@@ -8,6 +8,16 @@
 - Time Complexity: Deleting in BST: Average Time Complexity: O(log n) Worst Case Time Complexity: O(n) (when the tree is unbalanced)
 - AVL trees are self-balancing binary search trees. Insertion and deletion operations in AVL trees have a time complexity of O(log n).
 
+## Time Complexity of AVL and BST
+
+| Operation   | AVL Tree      | BST (average) | BST (worst)   |
+| ----------- | ------------ | ------------- | ------------- |
+| Search      | O(log n)      | O(log n)      | O(n)          |
+| Insertion   | O(log n)      | O(log n)      | O(n)          |
+| Deletion    | O(log n)      | O(log n)      | O(n)          |
+
+
+
 ## Merkle Tree
 - Introduction to Merkle Trees: Merkle trees are hash trees used to efficiently verify the integrity of data stored in large data structures.
 - Components of a Merkle Tree:
