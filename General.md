@@ -50,6 +50,45 @@
 | Data Integrity Checking | Merkle Trees can be used for data integrity checking, allowing for efficient and secure verification of data integrity. |
 
 
+- **DLL (Dynamic Link Library)**:
+  - A DLL is a file containing code and data that can be used by multiple programs simultaneously.
+  - It allows different programs to share resources and functionalities without the need to include the code in each program individually.
+
+- **CERD (Critical Error Rate Detection)**:
+  - CERD refers to a method or system for detecting critical errors within a system or process.
+  - It's typically used in software engineering or system monitoring to identify and address serious issues that could potentially cause system failure or compromise.
+
+- **ISA (Instruction Set Architecture)**:
+  - ISA defines the set of instructions that a computer processor can execute.
+  - It includes instructions for basic operations such as arithmetic, logic, data movement, and control flow.
+  - Different processors may have different ISAs, but they generally share common functionalities.
+
+- **Script Kiddie**:
+  - A script kiddie is a term used to describe an inexperienced or unskilled hacker who uses existing hacking tools and scripts without fully understanding how they work.
+  - Script kiddies often rely on pre-written code to carry out attacks, rather than developing their own techniques.
+
+- **MMU Paging (Memory Management Unit Paging)**:
+  - MMU paging is a memory management technique used by computer operating systems to manage virtual memory.
+  - It involves dividing the physical memory into fixed-size blocks called pages and mapping these pages to virtual memory addresses.
+  - Paging allows the operating system to efficiently manage memory allocation and address space.
+
+- **APT (Advanced Persistent Threat)**:
+  - APT refers to a sophisticated and prolonged cyberattack launched by skilled and well-funded adversaries, such as nation-states or organized crime groups.
+  - APT attacks are typically stealthy, persistent, and targeted, with the goal of compromising a specific target or organization over an extended period.
+
+- **NPIIC (Non-Personally Identifiable Information)**:
+  - NPIIC refers to data that cannot be used on its own to identify a particular individual.
+  - This type of information is often used in data analysis and research while maintaining privacy and anonymity.
+
+- **Identifiers**:
+  - In programming, identifiers are names given to various program elements such as variables, functions, classes, etc.
+  - These names serve as references to these elements within the code and help developers to identify and manipulate them.
+
+- **Modifiers**:
+  - Modifiers are keywords used in programming languages to alter the behavior of various program elements.
+  - For example, in Java, modifiers like "public," "private," and "static" are used to specify the visibility, access level, and other properties of variables, methods, and classes.
+  - They help in controlling the scope, access, and behavior of program elements.
+
 
 
 
