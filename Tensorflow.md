@@ -15,7 +15,7 @@ End-to-End Platform: From model development to deployment, TensorFlow covers the
 
 ## Example: Computational Graphs
 
-```
+```py
 import tensorflow as tf
 
 # Create nodes
@@ -27,6 +27,6 @@ node3 = tf.add(node1, node2)  # Sum of node1 and node2
 with tf.Session() as sess:
     result = sess.run(node3)
     print(f"Sum of node1 and node2 is: {result}")
-```
+```py
 
 
