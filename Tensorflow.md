@@ -1,6 +1,8 @@
 ## _TensorFlow: An Overview_
-***What is TensorFlow?
-TensorFlow is an open-source machine learning library developed by Google. It provides a powerful platform for creating and training deep learning models. Here are the key points:***
+***What is TensorFlow?***
+
+
+**TensorFlow is an open-source machine learning library developed by Google. It provides a powerful platform for creating and training deep learning models. Here are the key points:**
 
 **Definition: TensorFlow is an end-to-end platform for building machine learning applications.
 Graph-Based Computation: It allows you to create computational graphs and execute them efficiently on various hardware platforms.
