@@ -10,7 +10,7 @@
 - for node modules files write the command
 ```
 npm init 
-```
+``` 
 Creating package.json:
 
 - After you provide the necessary information, npm init will generate a package.json file in your project directory.
