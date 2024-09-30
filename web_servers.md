@@ -2,6 +2,9 @@
 
 ## Overview
 This explains how your server and web server (Nginx or Apache) manage requests from users trying to access your website.
+  - ![image](https://github.com/user-attachments/assets/75ce0f6e-9dfe-44ad-9c48-8256cdca1c3e)
+        img  credits microsoft bing
+
 
 ## Your Server
 This is where your website (webpage files) is hosted. It could be a computer or a cloud service where your website’s files are stored.
