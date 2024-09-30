@@ -1,8 +1,8 @@
 # How Your Server and Web Server (Nginx/Apache) Work
 
 ## Overview
-This explains how your server and web server (Nginx or Apache) manage requests from users trying to access your website.
-  - ![image](https://github.com/user-attachments/assets/75ce0f6e-9dfe-44ad-9c48-8256cdca1c3e)
+- This explains how your server and web server (Nginx or Apache) manage requests from users trying to access your website.
+   ![image](https://github.com/user-attachments/assets/75ce0f6e-9dfe-44ad-9c48-8256cdca1c3e)
         img  credits microsoft bing
 
 
